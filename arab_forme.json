@@ -1,0 +1,85 @@
+{
+    "question": [
+      {
+        "id": "f1",
+        "label": "ما هو الشكل الذي يشبه الدائرة؟",
+        "correct_answer": "خطوط دائرية",
+        "answer_false1": "مثلثات",
+        "answer_false2": "مستطيلات",
+        "answer_false3": "المثلث الحجري"
+      },
+      {
+        "id": "f2",
+        "label": "ما هو الشكل الذي يشبه أوراق الشجر؟",
+        "correct_answer": "مستطيلات",
+        "answer_false1": "خطوط دائرية",
+        "answer_false2": "مثلثات",
+        "answer_false3": "الناقص"
+      },
+      {
+        "id": "f3",
+        "label": "ما هو الشكل الذي يشبه صدر الطائر؟",
+        "correct_answer": "الناقص",
+        "answer_false1": "خطوط دائرية",
+        "answer_false2": "مستطيلات",
+        "answer_false3": "مثلثات"
+      },
+      {
+        "id": "f4",
+        "label": "ما هو الشكل الذي يشبه عصا السحاب؟",
+        "correct_answer": "مثلثات",
+        "answer_false1": "خطوط دائرية",
+        "answer_false2": "مستطيلات",
+        "answer_false3": "الناقص"
+      },
+      {
+        "id": "f5",
+        "label": "ما هو الشكل الذي يشبه الساعة؟",
+        "correct_answer": "خطوط دائرية",
+        "answer_false1": "مثلثات",
+        "answer_false2": "مستطيلات",
+        "answer_false3": "الناقص"
+      },
+      {
+        "id": "f6",
+        "label": "ما هي الشكل الذي يشبه الكرة؟",
+        "correct_answer": "دائرة",
+        "answer_false1": "مثلث",
+        "answer_false2": "مستطيل",
+        "answer_false3": "رباعي الأضلاع"
+        },
+        {
+        "id": "f7",
+        "label": "ما هي الشكل الذي يشبه أخضر اللؤلؤ؟",
+        "correct_answer": "نيجر",
+        "answer_false1": "دائرة",
+        "answer_false2": "مستطيل",
+        "answer_false3": "مثلث"
+        },
+        {
+        "id": "f8",
+        "label": "ما هي الشكل الذي يشبه المنشور؟",
+        "correct_answer": "مستطيل",
+        "answer_false1": "دائرة",
+        "answer_false2": "مثلث",
+        "answer_false3": "نيجر"
+        },
+        {
+        "id": "f9",
+        "label": "ما هي الشكل الذي يشبه الشخرة؟",
+        "correct_answer": "مثلث",
+        "answer_false1": "دائرة",
+        "answer_false2": "مستطيل",
+        "answer_false3": "نيجر"
+        },
+        {
+        "id": "f10",
+        "label": "ما هو الشكل الذي يشبه أصفر الشمعة؟",
+        "correct_answer": "رباعي الأضلاع",
+        "answer_false1": "دائرة",
+        "answer_false2": "مثلث",
+        "answer_false3": "مستطيل"
+        }
+    ]
+  }
+  
